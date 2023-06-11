@@ -1,0 +1,99 @@
+html,
+body {
+  height: 100%;
+}
+
+.homeImg {
+  min-width: 100%;
+}
+
+.title {
+  font-size: calc(10px + 6vmin);
+}
+
+.subtitle {
+  font-size: calc(10px + 3vmin);
+}
+
+.subtitle2 {
+  font-size: calc(10px + 2vmin);
+}
+
+.nosotros {
+  background-color: #0283cb;
+  color: #fff;
+}
+
+.footer {
+  background-color: #df691a;
+}
+
+.ingeos-logo {
+  max-width: 45%;
+}
+
+.mapframe {
+  border: 0;
+}
+
+.btn-primarycti {
+  color: #fff;
+  background-color: #0283cb;
+  border-color: #0283cb;
+}
+
+.btn-primarycti:hover {
+  color: #fff;
+  background-color: #0388d0;
+  border-color: #0388d0;
+}
+
+.text-cti {
+  color: #0283cb !important;
+}
+
+.bg-primarycti {
+  background-color: #0283cb;
+}
+
+.bg-primarycti {
+  background-color: #0283cb;
+}
+
+.ptb {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+}
+
+.ptb-soft {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.link-list li a {
+  margin-bottom: 5px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.link-list li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  display: inline-block;
+  margin-right: 10px;
+}
