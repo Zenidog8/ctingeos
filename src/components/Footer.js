@@ -28,25 +28,6 @@ function Footer() {
       </div>
     </>
   );
-  /*
-  return (
-    <>
-      <div className="container">
-        <div className="row ptb-soft">
-          <div className="col-md-6">
-            
-          </div>
-          <div className="col-md-6">
-            
-          </div>
-        </div>
-      </div>
-      <div className="col-sm-12 text-center shadow-lg p-3 bg-white">
-        © Consultores Técnicos InGeos, All rights reserved.
-      </div>
-    </>
-  );
-  */
 }
 
 export default Footer;
